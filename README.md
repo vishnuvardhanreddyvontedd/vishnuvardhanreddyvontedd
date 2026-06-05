@@ -113,7 +113,7 @@ I'm a Full Stack Developer focused on building clean, practical and user-friendl
 
 ## 💼 Experience
 
-**Full Stack Developer — Siris Apps, Hyderabad**  
+**Full Stack Developer — Siris Apps, Auckland, New Zealand**  
 *8 months of production experience*
 
 - Shipped features across production apps including **Campout, GateFlow and Kidjar**
